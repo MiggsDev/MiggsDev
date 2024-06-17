@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @MiggsDev
+- 👀 I’m interested in Python, HTML and CSS
+- 🌱 I’m currently getting to know more about the latest updates of Technologies in both Software and Hardware since every years innovation is always announced on every platforms in the social media
+- 😄 Pronouns: He/Him
